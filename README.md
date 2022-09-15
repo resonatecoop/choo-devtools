@@ -1,4 +1,8 @@
-# choo-devtools [![stability][0]][1]
+> 🛠 **Status: Maintenance Mode | Experimental**
+>
+> This project is currently in [maintenance mode](https://en.wikipedia.org/wiki/Maintenance_mode) - users should feel free to continue to use this app and expect bug fixes, but not expect many additional features.
+
+# choo-devtools
 [![npm version][2]][3] [![build status][4]][5]
 [![downloads][8]][9] [![js-standard-style][10]][11]
 
